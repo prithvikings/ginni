@@ -25,7 +25,7 @@ This project is an AI chatbot built with React.js, utilizing the Gemini API for 
 
 ## Demo
 
-[Insert link to live demo here]
+https://ginni-o12dwxgcn-prithvikings-projects.vercel.app/
 
 ## Installation
 
